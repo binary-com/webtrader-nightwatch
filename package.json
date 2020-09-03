@@ -27,7 +27,7 @@
     "lodash": "^4.17.10",
     "nightwatch": "^1.0.6",
     "nightwatch-html-reporter": "^2.0.5",
-    "node-sass": "^3.10.0",
+    "node-sass": "^4.13.1",
     "selenium-download": "^2.0.12",
     "serve-static": "^1.12.2",
     "showdown": "^1.6.3"
